@@ -1,0 +1,4 @@
+org\example\StatsCollector.class
+org\example\Qualifier.class
+org\example\DataFilter.class
+org\example\FilterResult.class
